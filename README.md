@@ -5,7 +5,7 @@
 
 #### Activity Diagram
 
-![Activity Diagram](/diagrams/Activity_diagram.jpeg)
+![Activity Diagram](/diagrams/Acitvity_diagram.jpeg)
 
 #### Sequence Diagram
 
@@ -17,7 +17,7 @@
 
 #### Class Diagram
 
-![Class Diagram](/diagrams/Activity_diagram.jpeg)
+![Class Diagram](/diagrams/Acitvity_diagram.jpeg)
 
 ## IPFS Usage
 None
