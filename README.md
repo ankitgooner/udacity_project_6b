@@ -5,19 +5,19 @@
 
 #### Activity Diagram
 
-![Activity Diagram](diagrams/activity-diagram.jpeg)
+![Activity Diagram](/diagrams/Activity_diagram.jpeg)
 
 #### Sequence Diagram
 
-![Sequence Diagram](diagrams/sequence-diagram.jpeg)
+![Sequence Diagram](/diagrams/sequence_diagram.jpeg)
 
 #### State Diagram
 
-![State Diagram](diagrams/state-diagram.jpeg)
+![State Diagram](/diagrams/state_diagram.jpeg)
 
 #### Class Diagram
 
-![Class Diagram](diagrams/activity-diagram.jpeg)
+![Class Diagram](/diagrams/Activity_diagram.jpeg)
 
 ## IPFS Usage
 None
