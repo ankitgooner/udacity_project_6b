@@ -1,0 +1,4 @@
+{
+    "solidity.defaultCompiler": "embedded",
+    "liveServer.settings.port": 5501
+}
