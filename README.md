@@ -17,7 +17,7 @@
 
 #### Class Diagram
 
-![Class Diagram](diagrams/activity-diagram.jpeg)
+![Class Diagram](diagrams/class_diagram.jpeg)
 
 ## IPFS Usage
 None
